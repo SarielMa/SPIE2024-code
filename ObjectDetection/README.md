@@ -10,5 +10,5 @@ train_PGD.py to train the vanilla adversarial Training (VAT)
 
 train_AMAT.py to train our proposed defense method
 
-train_TE.py to train the TEAT adversarial training.
+train_TE_L2.py to train the TEAT adversarial training.
 
