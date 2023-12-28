@@ -1,4 +1,4 @@
-## Adaptive Adversarian Training to Improve Adversarian Robustness of DNNs for Medical Image Segmentation and Detection
+## A general approach to improve adversarial robustness of DNNs for medical image segmentation and detection
 
 To install the basic version of nnUnet and download the datasets, Heart, Hippocampus and Prostate MRI, please refer to https://github.com/MIC-DKFZ/nnUNet 
 
