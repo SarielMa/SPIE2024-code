@@ -9,7 +9,7 @@ train.py trains the model without adversarial training;
 
 train_AT.py trains the model with vanilla adversarial training;
 
-train_Ours_2zscore.py trains the model with our proposed method; 
+train_Ours_loss_2z.py trains the model with our proposed method; 
 
 train_TE_L2.py trains the model with TEAT adversarial training method;
 
