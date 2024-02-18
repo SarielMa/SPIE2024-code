@@ -9,5 +9,5 @@ train_with_dice_loss.py trains the model with dice loss;
 
 train_PGD_dice.py trains the model with vanilla adversarial training;
 
-train_AMAT_2zscore.py trains the model with our proposed method 
+train_Ours_2zscore.py trains the model with our proposed method 
 train_TE.py trains the model with TEAT adversarial training method.
